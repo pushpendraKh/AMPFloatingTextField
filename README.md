@@ -1,6 +1,6 @@
 # AMPFloatingTextField
 
-When we first used SkyFloatingLabelTextField, instantly we fell in love with its effects. Then we got a completely different scenario which could not be handled with it, hence, decided to create something of our own.
+When we first used SkyFloatingLabelTextField, instantly we fell in love with its effects. Then we got a completely different scenario which could not be handled with it, hence, decided to create something of our own. Hope it will be useful for you
 
 Hope you'll like it :)
 
@@ -42,4 +42,4 @@ ansu, ansu.rajesh@gmail.com
 
 ## License
 
-AMPFloatingTextField is available under the MIT license. See the LICENSE file for more info.
+AMPFloatingTextField is available under the MIT license. See the LICENSE file for more info. 
